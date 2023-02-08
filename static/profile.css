@@ -1,0 +1,164 @@
+@font-face {
+    font-family:'Poppins',sans-serif;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+.mainlogoimg{
+width: 109px;
+height: 37px;
+margin-left: 126px;
+}
+.home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 370px;
+    line-height: 27px;
+ color: #000;
+ font-weight: 500;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 51px;
+        text-decoration: none;
+        color: #000;
+        font-weight: 500;
+}
+.blog{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    color: #000;
+    font-weight: 500;
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    font-weight: 500;
+    color: #000;
+}
+:any-link{
+    text-decoration: none;
+    color: #000;
+}
+.header{
+border-bottom: solid 1px black ;
+}
+.userlogo{
+    height:40px;
+    width:40px;
+   margin-bottom: 24px;
+   margin-right: 126px;
+   float: right;
+}
+.hello{
+display: inline;
+}
+.avatar-info{
+display: inline block;
+margin-left: 233px;
+margin-top: 139px;
+}
+.avatar-info h2{
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 600;
+     margin-top: 125px;
+    margin-right: 1050px;
+   float: right;
+}
+.avatar-info h3{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+margin-left: 207px;
+font-size: 22px;
+color: rgba(84, 108, 204, 1);
+}
+.abs{
+    text-align: center;
+    margin-left: 245px;
+margin-top:96px;
+width: 135px;
+height: 32px;
+border-bottom: rgba(125, 0, 0, 1) 1px solid;
+}
+.abs h3{
+    font-family: 'Poppins', sans-serif;
+font-size: 24px;
+font-weight: 500;
+}
+.info .heelo3,
+.info .gmail{
+    display: inline-block;
+}
+.heelo3{
+    font-family: 'Poppins', sans-serif;
+font-size: 20px;
+margin-left: 240px;
+}
+.adress,
+.new{
+    display: inline;
+    margin-top: 30px;
+}
+.adress{
+margin-top: 20px;
+}
+.gmail{
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    margin-left: 95px;
+}
+.adress{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-left: 240px;
+   
+}
+.new{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+}
+.gender{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-left: 240px;
+}
+.gender,
+.gendertype{
+    display: inline;
+
+}
+.gendertype{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+}
+.heelo3,
+.adress,
+.gender{
+    font-weight: 700;
+}
+.gmail,
+.new,
+.gendertype{
+    font-weight: 500;
+    font-size: 20px;
+}
+.button1{
+    font-size: 25px;
+    border: 0px;
+    display:block;
+    float: right;
+    border-radius: 4px;
+    margin-right: 251px;
+    margin-top: 9px;
+    background-color: rgba(135, 172, 135, 1);
+    color:rgba(255, 255, 255, 1);
+    width: 201px;
+    height: 70px;
+    padding: 16px, 32px, 16px, 32px
+}

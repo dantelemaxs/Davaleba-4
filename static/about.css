@@ -1,0 +1,99 @@
+@font-face {
+    font-family:'Poppins',sans-serif;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+.mainlogoimg{
+width: 109px;
+height: 37px;
+margin-left: 126px;
+font-weight: 500;
+
+}
+.home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 370px;
+    line-height: 27px;
+ color: #000;
+ font-weight: 500;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 51px;
+        text-decoration: none;
+        color: #000;
+        font-weight: 500;
+    }
+.blog{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    color: #000;
+    font-weight: 500;
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    color: #000;
+    font-weight: 500;
+}
+:any-link{
+    text-decoration: none;
+    color: #000;
+}
+.header{
+border-bottom: solid 1px black ;
+}
+.userlogo{
+    height:40px;
+    width:40px;
+   margin-bottom: 24px;
+   margin-right: 126px;
+   float: right;
+}
+.header{
+    border-bottom: solid 1px black ;
+    }
+    .h2{ 
+        text-align: center;
+        font-family: 'Poppins', sans-serif;         
+        font-size: 40px;
+        line-height: 38px;
+       color: rgba(125, 0, 0, 1);
+       letter-spacing: 1px;
+       font-weight: 600px;
+    }
+    .infoaboutcompany{
+        margin-left: 200px;
+        font-family: 'Poppins', sans-serif;             
+       font-style: normal;
+        font-size: 25px;
+        line-height: 38px;
+    }
+
+.info{
+margin-top: 118px;
+font-family: 'Poppins', sans-serif;  
+width:775px;
+color: black;
+font-size: 25px;
+display: inline block;
+}
+.adress{
+font-size: 25px;
+font-family: 'Poppins', sans-serif;
+font-style: italic;
+margin-left: 434px;
+margin-top: 86px;
+color: black;
+display: inline;
+width: 650px;
+}
+
+.image{
+margin-left: 850px;    
+ margin-bottom: 200px;
+margin-top: -250px;
+}

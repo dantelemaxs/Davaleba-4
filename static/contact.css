@@ -1,0 +1,105 @@
+@font-face {
+    font-family:'Poppins',sans-serif;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+.mainlogoimg{
+width: 109px;
+height: 37px;
+margin-left: 126px;
+}
+.home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 370px;
+    line-height: 27px;
+ color: #000;
+ font-weight: 500;
+
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 51px;
+        text-decoration: none;
+        font-weight: 500;
+        color: #000;
+}
+.blog{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    font-weight: 500;
+    color: #000;
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    font-weight: 500;
+    color: #000;
+}
+:any-link{
+    text-decoration: none;
+    color: #000;
+}
+.header{
+border-bottom: solid 1px black ;
+}
+.userlogo{
+    height:40px;
+    width:40px;
+   margin-bottom: 24px;
+   margin-right: 126px;
+   float: right;
+}
+.header1{
+ font-family: 'Poppins', sans-serif;
+font-size: 40px;
+color:rgba(125, 0, 0, 1);
+text-align: center;
+letter-spacing: 2px;
+margin-top: 137px;
+margin-bottom: 119px;
+}
+.header2{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    color: rgba(11, 37, 62, 1);
+    font-size: 27px;
+    margin-left: 280px;
+    display: inline-block;
+}
+.p2{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    color: rgba(11, 37, 62, 1);
+    font-size: 27px;
+    margin-left: 320px;
+    display: inline-block;
+margin-right: 190px;
+}
+
+.header3{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    color: rgba(11, 37, 62, 1);
+    font-size: 27px;
+    margin-left: 280px;
+    display: inline-block;
+   
+}
+.header4{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    color: rgba(11, 37, 62, 1);
+    font-size: 27px;
+    margin-left: 433px;
+    display: inline-block;
+}
+.map{
+width: 948px;
+height: 423px;
+margin-left: 286px;
+margin-bottom: 193px;
+margin-top: 144px;
+}

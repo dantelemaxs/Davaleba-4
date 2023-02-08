@@ -1,0 +1,136 @@
+@font-face {
+    font-family:'Poppins',sans-serif;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+.mainlogoimg{
+width: 109px;
+height: 37px;
+margin-left: 126px;
+}
+.home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 370px;
+    line-height: 27px;
+ color: #000;
+ font-weight: 500;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 51px;
+        text-decoration: none;
+        color: #000;
+        font-weight: 500;
+
+}
+.blog{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    color: #000;
+    font-weight: 500;
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 51px;
+    font-weight: 500;
+    color: #000;
+}
+:any-link{
+    text-decoration: none;
+    color: #000;
+}
+.header{
+border-bottom: solid 1px black ;
+}
+.userlogo{
+    height:40px;
+    width:40px;
+   margin-bottom: 24px;
+   margin-right: 126px;
+   float: right;
+}
+
+.b2{
+    height:40px;
+    width:40px;
+    margin-left: 367px;
+   margin-top: 20px;
+}
+.satauri{
+    margin-top: 50px;
+margin-left: 556px;
+font-size: 30px;
+line-height: 29px;
+}
+.produc-content{
+border: 1px solid black;
+display: inline-block;
+padding: 15px 15px 25px 15px;
+width: 333px;
+}
+.produc-content img {
+    width:100%
+}
+.produc-content h3 {
+    font-family:'Poppins',sans-serif;
+
+margin: 15px;
+line-height: 24px;
+}
+.produc-content p {
+    font-family:'Poppins',sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 1px;
+}
+  .produc-content h3,
+  .produc-content p {
+margin-left: 10px;
+}
+.product-wrapper{
+display: inline-block;
+}
+.produc-footer button{
+  font-family:'Poppins',sans-serif;
+font-size: 12px;
+line-height: 18px;
+padding: 6px 26px;
+background: inherit;
+border: 1px solid black;
+border-radius: 4px;
+font-weight: 700;
+}
+.produc-footer{
+text-align: right;
+margin-top: 20px;
+cursor: pointer;
+}
+.product-wrapper.left{
+    margin-left: 76px;
+}
+.product-wrapper.middle{
+    margin-left: 105px;
+}
+.product-wrapper.right{
+    margin-left: 104px;
+}
+.products-section{
+padding: 67px 126px 0px;
+}
+
+main ul{
+    font-family:'Poppins',sans-serif; 
+ font-size:18px;
+    font-weight: 400;
+    text-align:left;
+}
+.more{
+    font-family:'Poppins',sans-serif; 
+    text-align: right;
+    margin-right: 67px;
+    font-size: 18px;
+    font-weight: 700;
+}
